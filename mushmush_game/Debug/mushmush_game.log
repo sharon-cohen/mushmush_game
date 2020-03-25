@@ -1,0 +1,57 @@
+﻿  bat1.cpp
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(16): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(17): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(20): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(21): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  cave1.cpp
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(16): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(17): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(20): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(21): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.cpp(45): warning C5043: 'Cave::plotHazard': exception specification does not match previous declaration
+  c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(17): note: see declaration of 'Cave::plotHazard'
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.cpp(115): warning C5043: 'Cave::plotPlayerIdx': exception specification does not match previous declaration
+  c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(18): note: see declaration of 'Cave::plotPlayerIdx'
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.cpp(127): warning C5043: 'Cave::getRoomAtIndex': exception specification does not match previous declaration
+  c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(16): note: see declaration of 'Cave::getRoomAtIndex'
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.cpp(141): warning C5043: 'Cave::movePlayer': exception specification does not match previous declaration
+  c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(20): note: see declaration of 'Cave::movePlayer'
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.cpp(186): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.cpp(268): warning C5043: 'Cave::playerClash': exception specification does not match previous declaration
+  c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(22): note: see declaration of 'Cave::playerClash'
+  normalRoom.cpp
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(16): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(17): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(20): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(21): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  room1.cpp
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(16): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(17): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(20): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(21): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  sealedRoom.cpp
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(16): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(17): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(20): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(21): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.h(22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\sealedroom.h(34): warning C4150: deletion of pointer to incomplete type 'Hazard1'; no destructor called
+  c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\room1.h(7): note: see declaration of 'Hazard1'
+  Generating Code...
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\sealedroom.cpp(72): warning C4715: 'sealed_room::roomHazard': not all control paths return a value
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\room1.cpp(89): warning C4715: 'Room::getTunnel3': not all control paths return a value
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\normalroom.cpp(74): warning C4715: 'normal_room::attackInRoom': not all control paths return a value
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\normalroom.cpp(94): warning C4715: 'normal_room::roomHazard': not all control paths return a value
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.cpp(93): warning C4715: 'Cave::findMushMush': not all control paths return a value
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.cpp(266): warning C4715: 'Cave::playerAttack': not all control paths return a value
+c:\users\sharo\documents\second_year\mushmush_game\mushmush_game\cave1.cpp(313): warning C4715: 'Cave::playerClash': not all control paths return a value
+  mushmush_game.vcxproj -> C:\Users\sharo\Documents\second_year\mushmush_game\Debug\mushmush_game.exe
